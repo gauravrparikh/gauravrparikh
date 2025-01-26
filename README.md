@@ -43,7 +43,6 @@
     <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat&logo=mongodb&logoColor=white"><!-- Puppeteer -->
     <img src="https://img.shields.io/badge/puppeteer-%233790CF.svg?style=flat&logo=puppeteer&logoColor=white"><!-- Docker -->
     <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=flat&logo=docker&logoColor=white">
-
     </kbd>
     <br/>
     Platform: <br/>

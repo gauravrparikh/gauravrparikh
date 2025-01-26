@@ -31,7 +31,19 @@
     <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white">
     <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white">
     <img src="https://img.shields.io/badge/tableau-E97627?style=flat&logo=tableau&logoColor=white">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"><!-- Nginx -->
+    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white"><!-- Passport.js -->
+    <img src="https://img.shields.io/badge/passport.js-%233A3D4E.svg?style=flat&logo=passport&logoColor=white"><!-- Vue -->
+    <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white"><!-- React -->
+    <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react&logoColor=white"><!-- Node.js -->
+    <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white"><!-- TypeScript -->
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"><!-- JavaScript -->
+    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black"><!-- Keycloak -->
+    <img src="https://img.shields.io/badge/keycloak-%2342837A.svg?style=flat&logo=keycloak&logoColor=white"><!-- MongoDB -->
+    <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat&logo=mongodb&logoColor=white"><!-- Puppeteer -->
+    <img src="https://img.shields.io/badge/puppeteer-%233790CF.svg?style=flat&logo=puppeteer&logoColor=white"><!-- Docker -->
+    <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=flat&logo=docker&logoColor=white">
+
     </kbd>
     <br/>
     Platform: <br/>

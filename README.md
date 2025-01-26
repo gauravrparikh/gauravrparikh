@@ -1,11 +1,11 @@
 <p align="center">
   👋 Hi, this is Gaurav!
   <p align="center">
-    🎓 Duke University | 🧪 Computer Science Major |  👨‍💻 Interested in Machine Learning and Distributed Systems<br/>
+    🎓 Duke University | 👨‍💻 Interested in Distributed Systems and Machine Learning <br/>
     Located in <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="13"/>Durham, NC <br/>
     <br/>
-📊 Building scalable data-driven solutions for healthcare, climate, economics, and spatial statistics.  
-🌍 Enthusiast in time series modeling and geospatial analysis.
+📊 Building scalable data-driven solutions for healthcare, climate, economics.  
+🌍 Interested in time series modeling, geospatial analysis and spatial statistics. 
 🚀 Passionate about leveraging advanced data science and interpretable rule based machine learning for high stakes settings. 
 💡 Currently learning about distributed systems and deployment of machine learning models.
   </p>
